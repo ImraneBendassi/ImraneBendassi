@@ -38,13 +38,6 @@ Fraîchement diplômé du **Titre Professionnel Développeur Web et Web Mobile (
 
 ---
 
-### 📊 GitHub Stats  
-
-![Imrane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=tokyonight)  
-
----
-
 ### 📫 Me contacter  
 - 💼 [LinkedIn](https://www.linkedin.com/in/imrane-bendassi-5256642a1/)  
 - 📧 Email : **imrane.bendassi@gmail.com**  
